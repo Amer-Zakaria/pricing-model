@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Nokia 8.3 5G",
+    "score": 796,
+    "price": 699,
+    "score_per_dollar": 1.1387696709585122
+  },
+  {
+    "name": "Asus ROG Phone 5s",
+    "score": 1269,
+    "price": 1099,
+    "score_per_dollar": 1.1546860782529573
+  },
+  {
+    "name": "Sony Xperia 1 III",
+    "score": 1495,
+    "price": 1199,
+    "score_per_dollar": 1.2468723936613846
+  },
+  {
+    "name": "Samsung Galaxy Z Flip3",
+    "score": 1302,
+    "price": 999,
+    "score_per_dollar": 1.3033033033033032
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "score": 1920,
+    "price": 1199,
+    "score_per_dollar": 1.6013344453711427
+  },
+  {
+    "name": "Xiaomi 12T Pro",
+    "score": 1207,
+    "price": 749,
+    "score_per_dollar": 1.6114819759679573
+  },
+  {
+    "name": "Vivo X90 Pro+",
+    "score": 1943,
+    "price": 1199,
+    "score_per_dollar": 1.6205170975813177
+  },
+  {
+    "name": "OnePlus 11R",
+    "score": 1201,
+    "price": 699,
+    "score_per_dollar": 1.7181688125894135
+  },
+  {
+    "name": "Samsung Galaxy Z Flip5",
+    "score": 1810,
+    "price": 999,
+    "score_per_dollar": 1.8118118118118118
+  },
+  {
+    "name": "Nothing Phone (2a)",
+    "score": 1094,
+    "price": 599,
+    "score_per_dollar": 1.8263772954924875
+  },
+  {
+    "name": "Oppo Find X7 Ultra",
+    "score": 1828,
+    "price": 999,
+    "score_per_dollar": 1.82982982982983
+  },
+  {
+    "name": "Xiaomi 13 Pro",
+    "score": 1654,
+    "price": 899,
+    "score_per_dollar": 1.8398220244716352
+  },
+  {
+    "name": "Realme GT Master",
+    "score": 987,
+    "price": 499,
+    "score_per_dollar": 1.9779559118236474
+  },
+  {
+    "name": "Xiaomi Poco F4",
+    "score": 1045,
+    "price": 499,
+    "score_per_dollar": 2.094188376753507
+  },
+  {
+    "name": "Google Pixel 9 Pro",
+    "score": 1886,
+    "price": 899,
+    "score_per_dollar": 2.0978865406006673
+  },
+  {
+    "name": "Oppo Find X8 Pro",
+    "score": 2635,
+    "price": 1199,
+    "score_per_dollar": 2.1976647206005
+  },
+  {
+    "name": "Samsung Galaxy A33",
+    "score": 855,
+    "price": 299,
+    "score_per_dollar": 2.859531772575251
+  },
+  {
+    "name": "Realme GT Neo 3",
+    "score": 1116,
+    "price": 499,
+    "score_per_dollar": 2.2364729458917836
+  },
+  {
+    "name": "Xiaomi Redmi Note 12 Pro",
+    "score": 897,
+    "price": 399,
+    "score_per_dollar": 2.2481203007518795
+  },
+  {
+    "name": "OnePlus 12",
+    "score": 1815,
+    "price": 749,
+    "score_per_dollar": 2.423230974632844
+  },
+  {
+    "name": "Motorola Edge X30",
+    "score": 1576,
+    "price": 599,
+    "score_per_dollar": 2.631051752921536
+  },
+  {
+    "name": "OnePlus Nord N20",
+    "score": 892,
+    "price": 299,
+    "score_per_dollar": 2.983277591973244
+  },
+  {
+    "name": "Xiaomi Poco M2 Pro",
+    "score": 737,
+    "price": 249,
+    "score_per_dollar": 2.959839357429719
+  },
+  {
+    "name": "Google Pixel 7a",
+    "score": 1375,
+    "price": 499,
+    "score_per_dollar": 2.755511022044088
+  },
+  {
+    "name": "Nubia Red Magic 8 Pro",
+    "score": 1877,
+    "price": 649,
+    "score_per_dollar": 2.8921417565485363
+  },
+  {
+    "name": "iPhone 16 Pro Max",
+    "score": 3433,
+    "price": 1099,
+    "score_per_dollar": 3.123748862602366
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "score": 2130,
+    "price": 1199,
+    "score_per_dollar": 1.7764804003336114
+  },
+  {
+    "name": "Xiaomi Black Shark 4 Pro",
+    "score": 1485,
+    "price": 599,
+    "score_per_dollar": 2.4791318864774623
+  },
+  {
+    "name": "iPhone SE (3rd generation)",
+    "score": 2259,
+    "price": 429,
+    "score_per_dollar": 5.265734265734266
+  },
+  {
+    "name": "Samsung Galaxy S8 Active",
+    "score": 373,
+    "price": 850,
+    "score_per_dollar": 0.4388
+  },
+  {
+    "name": "Samsung Galaxy S7",
+    "score": 296,
+    "price": 670,
+    "score_per_dollar": 0.4418
+  },
+  {
+    "name": "Google Pixel 2 XL",
+    "score": 387,
+    "price": 850,
+    "score_per_dollar": 0.4553
+  },
+  {
+    "name": "HTC U Ultra",
+    "score": 357,
+    "price": 750,
+    "score_per_dollar": 0.476
+  }
+]
