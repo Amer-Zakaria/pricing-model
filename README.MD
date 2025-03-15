@@ -8,6 +8,8 @@ This project uses a Gaussian Naive Bayes classifier to help mobile manufacturers
 - **Deep green:** High confidence that a phone is underpriced.
 - **Deep red:** High confidence that a phone is overpriced.
 
+Note: As new smartphones get released, update sample.json accordingly (current sample is made at March 2025)
+
 ## Data & Methodology
 
 - **Data:** A sample set of smartphone specifications (performance score, price, score per dollar) in the current marketplace is used (as of March 2025). The sample has been take from [Geekbench](https://browser.geekbench.com/mobile-benchmarks), and as for the prices, they are basically the launch prices of smartphones.
