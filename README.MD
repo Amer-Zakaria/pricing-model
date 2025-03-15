@@ -18,8 +18,8 @@ This project uses a Gaussian Naive Bayes classifier to help mobile manufacturers
 1. **Clone the Repository:**
 
    ```bash
-      git clone https://github.com/your-username/mobile-pricing-portfolio.git
-      cd mobile-pricing-portfolio
+      git clone https://github.com/Amer-Zakaria/pricing-model.git
+      cd pricing-model
    ```
 
 2. **Install necessary dependencies:**
