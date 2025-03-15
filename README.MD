@@ -1,6 +1,7 @@
 # Mobile Pricing Decision Boundary Project
 
 ## Overview
+[Plot Preview](https://smartphone-pricing.streamlit.app) 
 
 This project uses a Gaussian Naive Bayes classifier to help mobile manufacturers price new phones based on performance(CPU, and CPU/RAM interaction) and the current market conditions. The model calculates a "score per dollar" ratio for each smartphone and classifies them as underpriced or overpriced. An interactive visualization shows a decision boundary, with color intensity representing the classifier's confidence:
 
