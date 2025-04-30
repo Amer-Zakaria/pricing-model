@@ -1,11 +1,14 @@
 # Mobile Pricing Decision Boundary Project
 
 ## Overview
+[Plot Preview](https://smartphone-pricing.streamlit.app) 
 
 This project uses a Gaussian Naive Bayes classifier to help mobile manufacturers price new phones based on performance(CPU, and CPU/RAM interaction) and the current market conditions. The model calculates a "score per dollar" ratio for each smartphone and classifies them as underpriced or overpriced. An interactive visualization shows a decision boundary, with color intensity representing the classifier's confidence:
 
 - **Deep green:** High confidence that a phone is underpriced.
 - **Deep red:** High confidence that a phone is overpriced.
+
+Note: As new smartphones get released, update sample.json accordingly (current sample is made at March 2025)
 
 ## Data & Methodology
 
@@ -18,8 +21,8 @@ This project uses a Gaussian Naive Bayes classifier to help mobile manufacturers
 1. **Clone the Repository:**
 
    ```bash
-      git clone https://github.com/your-username/mobile-pricing-portfolio.git
-      cd mobile-pricing-portfolio
+      git clone https://github.com/Amer-Zakaria/pricing-model.git
+      cd pricing-model
    ```
 
 2. **Install necessary dependencies:**
