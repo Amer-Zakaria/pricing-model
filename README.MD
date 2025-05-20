@@ -5,14 +5,12 @@
 
 This project uses a Gaussian Naive Bayes classifier to help mobile manufacturers price new phones based on performance(CPU, and CPU/RAM interaction) and the current market conditions. The model calculates a "score per dollar" ratio for each smartphone and classifies them as underpriced or overpriced. An interactive visualization shows a decision boundary, with color intensity representing the classifier's confidence:
 
-- **Deep green:** High confidence that a phone is underpriced.
-- **Deep red:** High confidence that a phone is overpriced.
-
-Note: As new smartphones get released, update sample.json accordingly (current sample is made at March 2025)
+- **Deeper green:** Higher confidence that a phone is underpriced.
+- **Deeper red:** Higher confidence that a phone is overpriced.
 
 ## Data & Methodology
 
-- **Data:** A sample set of smartphone specifications (performance score, price, score per dollar) in the current marketplace is used (as of March 2025). The sample has been take from [Geekbench](https://browser.geekbench.com/mobile-benchmarks), and as for the prices, they are basically the launch prices of smartphones.
+- **Data:** A sample set of smartphone specifications brought from scraping GSM Arena, smartphones are from 2024 to May 2025. The most feature that effect the price has been extracted, which turned out to the performance score from Aututu.
 - **Model:** A Gaussian Naive Bayes classifier is trained on the data to determine the decision boundary.
 - **Visualization:** The decision boundary is plotted, with color intensity reflecting the probability (confidence) of being underpriced or overpriced.
 
@@ -32,6 +30,4 @@ Note: As new smartphones get released, update sample.json accordingly (current s
    ```
 
 3. **Run the code:**
-   ```bash
-      streamlit run app.py
-   ```
+   Run directly from the Jupyter Notebook file
